@@ -400,4 +400,4 @@ if (message.content.startsWith(prefix + 'setplay')) {
 });
 
 
-client.login(process.env.BOT_TOKEN); 
+client.login(process.env.BOT_TOKEN2); 
